@@ -1,15 +1,4 @@
-/*
-Theme Name: Polo
-Theme URI: http://themewagon.com/demo/polo-responsive-app-landing-page-template
-Author: ThemeWagon
-Author URI: http://themewagon.com/
-Description: One page app landing HTML5 CSS3 template powered by Bootstrap 3.
-Version: 2.0
-License: MPL v2.0
-License URI: https://www.mozilla.org/MPL/2.0/
-Tags: green, white, responsive-layout, one page, full-width-template
-Text Domain: polo
-*/
+
 
 /**
 * Table of Contents:
@@ -321,7 +310,7 @@ a:hover {
 /////////////////////////////////////////////////////////////////////*/
 
 #banner {
-    background: url(../img/bg.jpg);
+    background: url(../img/library2.jpg);
     background-size: cover;
     padding-top: 80px;
     background-attachment: fixed;
