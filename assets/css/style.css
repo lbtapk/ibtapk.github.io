@@ -68,10 +68,19 @@ a:hover {
     color: #00ceb8;
 }
 
+
+.img_res, .team-pic{
+    width: 100%;
+    height: 300px;
+    max-width: 100%;
+}
+
+
+
 .img_res{
     display: block;
     width: 100%;
-    height: 300px;
+    height: auto;
     max-width: 100%;
 }
 .block-title {
