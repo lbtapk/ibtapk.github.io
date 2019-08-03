@@ -71,7 +71,7 @@ a:hover {
 .img_res{
     display: block;
     width: 100%;
-    height: auto;
+    height: 300px;
     max-width: 100%;
 }
 .block-title {
